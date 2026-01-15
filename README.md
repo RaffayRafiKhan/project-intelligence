@@ -1,1 +1,4 @@
-# project-intelligence
+app/
+lib/
+types/
+package.json
