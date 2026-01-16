@@ -1,5 +1,5 @@
 // app/layout.tsx
-import './globals.css'; // optional, your global CSS
+import './globals.css'; // optional, create this file if you want global styles
 
 export const metadata = {
   title: 'Product Intelligence',
