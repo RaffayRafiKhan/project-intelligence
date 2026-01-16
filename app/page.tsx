@@ -1,8 +1,7 @@
-export default function Home() {
+export default function HomePage() {
   return (
-    <main style={{ padding: 40 }}>
-      <h1>Product Intelligence Platform</h1>
-      <p>Backend is under construction.</p>
+    <main>
+      <h1>Welcome to Product Intelligence</h1>
     </main>
   );
 }
